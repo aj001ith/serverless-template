@@ -1,3 +1,46 @@
+curl -X POST "http://localhost:8000/" \
+-H "Content-Type: application/json" \
+-d \
+'
+{
+    "apiKey": "YOUR_API_KEY",
+    "modelKey": "YOUR_MODEL_KEY",
+    "modelInputs": {"prompt": "Hello I am a [MASK] model."}
+}'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 🍌 Banana Serverless
 
